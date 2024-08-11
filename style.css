@@ -1,0 +1,67 @@
+body{
+    text-align:center;
+    
+}
+#hello{
+    background: linear-gradient(#ceae22,#27ae60);
+    z-index:9;
+}
+#image{
+    padding-top:80px;
+   
+  
+}
+.line{
+    height:10px;
+    background-color:black;
+    width:50px;
+    margin:8px auto;
+}
+#font{
+    font-family:sans-serif;
+}
+#h1{
+    text-decoration:underline;
+}
+.menu{
+    position:absolute;
+    top:10px;
+  width:100%;
+    z-index:20;
+    cursor:pointer;
+    
+
+}
+.links{
+    
+    padding-right:25px;
+    padding-left:33px;
+   font-size:20px;
+    font-family:fantasy;
+   display:inline;
+
+
+}
+.links:hover{
+    font-size:25px;
+    text-decoration:underline;
+}
+a{
+    text-decoration:none;
+}
+#writing a{
+    text-decoration:underline;
+    
+
+}
+#contact{
+    background:lightgrey;
+    
+}
+#contact iframe{
+    width:100%;
+}
+.contact_1 h3{
+    display:inline;
+
+}
